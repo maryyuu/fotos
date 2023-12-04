@@ -1,6 +1,4 @@
-import signomas from "./imgs/signomas.png"
-import flecha from "./imgs/flecha.jpg"
-import subirimagen from "./subirimagen"
+
 import React, { useState, useRef } from 'react';
 const Card = ()=> {
     const [imageSrc, setImageSrc] = useState('');

@@ -1,4 +1,4 @@
-import Bienestar from "./Imgs/Bienestar.png"
+import Bienestar from "../../assets/Bienestar.png"
 import Card from "../../Components";
 function Fotos () {
 
